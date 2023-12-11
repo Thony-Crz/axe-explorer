@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "axe-explorer-playwright", "axe-explorer-playwright\axe-explorer-playwright.csproj", "{73E37228-6A7C-4B1D-9778-49D3220A3E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E37228-6A7C-4B1D-9778-49D3220A3E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E37228-6A7C-4B1D-9778-49D3220A3E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E37228-6A7C-4B1D-9778-49D3220A3E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E37228-6A7C-4B1D-9778-49D3220A3E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F88AEF-86F1-47F1-9A7F-85863F15D8E5}
+	EndGlobalSection
+EndGlobal
